@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "花になれ (Ryu-Take 2023 ver.)",
+  "base_artist": "flumpool",
+  "createdAt": "2026-04-05T03:21:51.546082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花になれ",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/01_花になれ_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花になれ!",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/02_花になれ!_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花になれ!",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/03_花になれ!_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花になれ!",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/04_花になれ!_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花になれ",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/05_花になれ_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花になれ (Ryu-Take 2023 ver.)",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/06_花になれ_(Ryu-Take_2023_ver.)_flumpool.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花になれ - Hana Ni Nare",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/07_花になれ_-_Hana_Ni_Nare_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ever lasting lie (Acoustic Version) / 喝采～花になれ～",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/08_Ever_lasting_lie_(Acoustic_Version)___喝采~花になれ~_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花になれ",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_01_花になれ_flumpool.txt"
+    }
+  ]
+}
